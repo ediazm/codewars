@@ -1,3 +1,3 @@
 # codewars
 
-List of Exercises from codewars website
+# List of Exercises from codewars website
